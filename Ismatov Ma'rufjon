@@ -1,0 +1,4 @@
+pi = 3.14159 # o'nlik son (float)
+radius = 10  # butun son (integer)
+diametr = 2*radius
+print("Aylana uzunligi ", pi*diametr, " ga teng.")
